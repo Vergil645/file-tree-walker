@@ -33,3 +33,6 @@ Clean:
 ```shell
 make clean
 ```
+
+##### Requirements
+You must have JDK 17+
