@@ -1,0 +1,7 @@
+af0b256b7b2913eb3536d207a4b91aac0544e67e src/Walk.java
+e96f3c25b3f06ff12bfe819917d88c39a99908d9 src/RecursiveWalk.java
+84a96bae929b7e567d1ce2324d3c6063a07d5386 src/AbstractWalk.java
+6c1e621e331b352bd359f15b0cfa5d8f9219fe73 src/exception/AppException.java
+de5c92f4111d6fb30e6033c576ecc6f89c52d038 src/exception/PathException.java
+268f42d16eaecdfd3bd4acbbb2c2ca811bd1bb7d Makefile
+ad1305271c932827b4e8000c0e5ccb107432cae6 .gitignore
