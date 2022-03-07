@@ -1,4 +1,4 @@
-## file-tree-walker
+# file-tree-walker
 Console application that walk throw the file system and calculates the hash of files using [SHA-1](https://en.wikipedia.org/wiki/SHA-1) algorithm.
 
 There is to applications inside:
